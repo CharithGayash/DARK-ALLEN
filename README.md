@@ -2,7 +2,7 @@
 
 <h1 align="center">DARK ALLEN<br></h1>
 <p align="center">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flh3.googleusercontent.com%2FZX6QtuP7xer0M5-ov_vw7K4qgjER0j_CnV5XoQ2KZU6DD2F4eRg2OyCeknEjvO-Uoyjk7_x5ljPJQe1e7F85aAdgMQ%3Dw640-h400-e365-rj-sc0x00ffffff&imgrefurl=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fdesktop-wallpaper-1080p-a%2Fbgkedkhohajfjehckdkpgjapdlhdnamj%3Fhl%3Dja&tbnid=Y1pLnn1IttriVM&vet=12ahUKEwjA4u3AuJv5AhXJFYgKHU1kD3EQMygBegUIARCLAg..i&docid=fddFsnLYKediWM&w=640&h=400&q=anime%20wallpaper&client=ms-android-oppo-rev1&ved=2ahUKEwjA4u3AuJv5AhXJFYgKHU1kD3EQMygBegUIARCLAg" alt="animated" width="540" height="280" />
+<img src="content://media/external/downloads/46875" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
