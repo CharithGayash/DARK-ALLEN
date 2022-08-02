@@ -1,5 +1,3 @@
-
-
 <h1 align="center">DARK ALLEN<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/daeb18b6097Usman092b17708b.jpg" alt="animated" width="540" height="280" />
